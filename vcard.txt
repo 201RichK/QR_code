@@ -1,0 +1,5 @@
+INFORMATION PRODUIT
+
+Nom Produit:Allmagnol
+Nutriment:vitamineA, vitamineB
+Poid:15
